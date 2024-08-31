@@ -1,4 +1,8 @@
 Hello world
 Hello sharath
 Hello file1 from feature1
+
 Know about merge conflicts
+
+Changes made from feature branch
+
