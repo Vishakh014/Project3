@@ -6,3 +6,4 @@ Know about merge conflicts
 
 Changes made from feature branch
 
+changes made from remote branch
