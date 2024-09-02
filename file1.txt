@@ -1,7 +1,6 @@
 Hello world
 Hello sharath
 Hello file1 from feature1
-
 kfdsjgkjah
 Know about merge conflicts
 
