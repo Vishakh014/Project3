@@ -6,4 +6,4 @@ Know about merge conflicts
 
 Changes rom feature branch
 
-Made from
+Two commit
